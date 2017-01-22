@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "321714577462",
+    "firebase_url": "https://safe-key.firebaseio.com",
+    "project_id": "safe-key",
+    "storage_bucket": "safe-key.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321714577462:android:74d74b3d5d7cd093",
+        "android_client_info": {
+          "package_name": "com.anysoftkeyboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321714577462-kv9n7drmopf7mbppk3ot1ldt85dbtb33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9GYZLSVP-6I4YPCuQm5o902lrF2XTx34"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321714577462:android:ccae450962c9371f",
+        "android_client_info": {
+          "package_name": "com.menny.android.anysoftkeyboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321714577462-kv9n7drmopf7mbppk3ot1ldt85dbtb33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9GYZLSVP-6I4YPCuQm5o902lrF2XTx34"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

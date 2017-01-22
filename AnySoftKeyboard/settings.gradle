@@ -1,0 +1,1 @@
+include ':app', ':base', ':jnidictionaryv1', ':jnidictionaryv2', ':nextword'
